@@ -1,0 +1,1 @@
+As Redes Adversárias Generativas (GANs) no momento são uma das ideias mais interessantes da ciência da computação. Dois modelos de Redes Neurais Artificiais são treinados simultaneamente por um processo adversarial. Com elas é possível gerar qualquer tipo de distribuição de dados.
